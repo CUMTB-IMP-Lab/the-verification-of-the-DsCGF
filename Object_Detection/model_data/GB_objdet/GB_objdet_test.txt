@@ -1,0 +1,800 @@
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011929.jpg 1465,259,1686,592,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011930.jpg 1453,765,1667,1090,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011931.jpg 1435,1188,1663,1504,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011932.jpg 1988,8,2318,198,0 1430,1600,1635,1927,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011933.jpg 453,2,588,94,0 583,8,767,173,0 1959,2,2124,222,0 1975,463,2292,684,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011934.jpg 443,333,590,502,0 557,335,757,594,0 1945,388,2124,637,0 1961,880,2286,1096,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011935.jpg 418,743,573,922,0 547,763,745,1008,0 1928,800,2094,1051,0 1957,1300,2281,1516,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011936.jpg 404,1245,563,1422,0 522,1280,730,1508,0 1914,1296,2086,1553,0 1939,1802,2261,2004,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011937.jpg 394,1661,551,1839,0 506,1696,710,1929,0 1912,1706,2077,1971,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011938.jpg 1830,49,2039,247,0 1822,347,2041,569,0 2347,484,2537,716,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011939.jpg 469,171,630,325,0 1820,461,2026,667,0 1816,753,2024,971,0 2335,884,2522,1137,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011940.jpg 453,582,608,741,0 1814,873,2012,1073,0 1798,1173,2022,1394,0 2320,1314,2510,1557,0 2706,39,2841,178,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011941.jpg 435,1078,583,1243,0 1792,1376,2008,1573,0 1781,1669,1994,1888,0 2314,1812,2492,2051,0 2702,531,2826,667,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011942.jpg 418,1492,569,1671,0 2677,945,2814,1082,0 2402,29,2594,263,0 1783,1792,1988,1986,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011943.jpg 649,6,820,149,0 406,1906,561,2078,0 2400,441,2581,680,0 2671,1359,2800,1494,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011944.jpg 632,469,800,649,0 2371,931,2557,1167,0 2651,1863,2788,1986,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011945.jpg 616,882,788,1067,0 1843,90,1998,357,0 2363,1349,2547,1582,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011946.jpg 1835,500,1988,771,0 594,1308,769,1476,0 2355,1759,2549,2014,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011947.jpg 1814,994,1973,1263,0 577,1800,757,1967,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011948.jpg 500,2,702,194,0 1802,1412,1967,1690,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011949.jpg 496,400,696,612,0 1786,1835,1965,2108,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011950.jpg 616,300,792,512,0 477,890,675,1108,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011951.jpg 602,712,788,927,0 467,1316,661,1520,0 1569,233,1783,465,0 2079,288,2235,478,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011952.jpg 532,67,792,257,0 575,1125,777,1345,0 455,1737,643,1951,0 1561,645,1773,886,0 2077,710,2232,896,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011953.jpg 430,112,610,327,0 526,555,773,743,0 569,1629,757,1855,0 1524,1141,1755,1394,0 2063,1206,2214,1386,0 2049,78,2257,312,0 2155,308,2339,494,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011954.jpg 422,531,602,737,0 512,961,757,1169,0 557,2055,739,2168,0 1535,1555,1743,1800,0 2037,490,2253,731,0 2149,712,2335,894,0 2047,1622,2208,1804,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011955.jpg 404,939,579,1149,0 502,1386,745,1578,0 2020,918,2235,1145,0 2130,1135,2318,1320,0 1516,1973,1740,2168,0 2037,2033,2202,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011956.jpg 390,1433,569,1651,0 475,1880,730,2086,0 2010,1404,2239,1649,0 2118,1618,2304,1814,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011957.jpg 375,1855,557,2073,0 1449,218,1653,416,0 2004,1825,2196,2055,0 2106,2047,2284,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011958.jpg 1439,629,1641,829,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011959.jpg 437,135,628,312,0 1422,1127,1626,1331,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011960.jpg 418,625,610,812,0 1416,1627,1608,1833,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011961.jpg 402,1049,592,1220,0 2608,100,2788,365,0 1388,2049,1607,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011962.jpg 377,1469,579,1633,0 496,84,673,239,0 1426,4,1610,145,0 2594,520,2773,780,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011963.jpg 479,576,659,733,0 369,1971,571,2139,0 1404,469,1594,639,0 2583,1029,2769,1273,0 767,4,1026,167,0 1090,2,1283,151,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011964.jpg 773,398,1004,584,0 471,992,639,1145,0 1075,349,1273,559,0 1390,873,1583,1059,0 2559,1437,2749,1680,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011965.jpg 1045,361,1255,531,0 751,806,994,1002,0 455,1382,616,1563,0 1063,771,1273,969,0 1377,1292,1575,1465,0 2561,1851,2743,2098,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011966.jpg 1035,861,1237,1045,0 730,1300,973,1516,0 1053,1261,1245,1476,0 443,1896,608,2073,0 1357,1786,1557,1971,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011967.jpg 1018,1284,1214,1447,0 728,1718,967,1918,0 1045,1692,1235,1886,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011968.jpg 1006,1696,1210,1865,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011969.jpg 1647,231,1898,416,0 2275,343,2498,559,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011970.jpg 535,57,765,243,0 1632,649,1873,831,0 2259,751,2492,988,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011971.jpg 508,549,747,741,0 1614,1135,1869,1331,0 2239,1241,2473,1488,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011972.jpg 506,961,735,1149,0 1606,1561,1859,1757,0 2230,1659,2467,1910,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011973.jpg 475,1461,716,1651,0 1586,2059,1845,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011974.jpg 463,1871,696,2057,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011975.jpg 2381,273,2649,467,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011976.jpg 2371,686,2651,884,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011977.jpg 2361,1102,2630,1294,0 2026,163,2202,349,0 473,57,716,276,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011978.jpg 469,545,704,763,0 2024,649,2206,853,0 2349,1606,2608,1798,0 1255,4,1561,225,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011979.jpg 1239,420,1549,641,0 1212,257,1367,453,0 445,963,677,1182,0 2014,1076,2212,1259,0 2337,2025,2593,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011980.jpg 435,1378,665,1610,0 1192,676,1351,869,0 1232,822,1535,1063,0 2002,1488,2183,1673,0 2751,10,2959,153,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011981.jpg 2757,410,2943,639,0 1181,1180,1332,1361,0 1226,1316,1518,1545,0 1255,100,1483,255,0 418,1886,649,2116,0 1979,2000,2186,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011982.jpg 771,920,969,1106,0 1167,1586,1314,1788,0 1204,1745,1502,1976,0 2741,820,2932,1055,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011983.jpg 716,1653,920,1849,0 2728,1329,2908,1551,0 1157,2084,1292,2168,0 459,8,645,129,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011984.jpg 418,325,628,537,0 1428,300,1612,463,0 726,2039,976,2168,0 2716,1749,2912,1959,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011985.jpg 406,741,618,957,0 1410,712,1602,884,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011986.jpg 390,1241,598,1459,0 1400,1212,1586,1390,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011987.jpg 377,1743,579,1965,0 1386,1712,1569,1886,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011988.jpg 1522,351,1767,555,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011989.jpg 1512,773,1739,963,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011990.jpg 1500,1273,1737,1457,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011991.jpg 1486,1692,1728,1882,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011992.jpg 1179,349,1381,569,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011993.jpg 1163,771,1373,994,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011994.jpg 1147,1276,1365,1496,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011995.jpg 1141,1694,1343,1902,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011996.jpg 400,131,641,320,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011997.jpg 381,625,632,818,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011998.jpg 1461,304,1661,496,0 355,1057,626,1237,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0011999.jpg 353,1471,600,1659,0 1447,714,1651,914,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012000.jpg 322,1973,586,2157,0 1437,1220,1645,1420,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012001.jpg 1424,1725,1620,1922,0 2190,288,2390,490,0 2902,204,3118,380,0 2971,104,3079,218,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012002.jpg 2159,710,2373,904,0 2959,518,3077,627,0 2892,608,3102,790,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012003.jpg 1663,337,1871,463,0 2155,1125,2363,1320,0 2883,1008,3092,1212,0 2947,929,3069,1047,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012004.jpg 2930,1420,3055,1543,0 2865,1516,3075,1706,0 2147,1629,2353,1822,0 1649,833,1857,957,0 1098,1,1239,216,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012005.jpg 1079,384,1228,629,0 1630,1239,1843,1376,0 2130,2039,2337,2168,0 2857,1935,3067,2120,0 2922,1835,3047,1949,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012006.jpg 1059,884,1214,1137,0 1618,1755,1832,1873,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012007.jpg 1051,1306,1192,1545,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012008.jpg 1043,1731,1186,1965,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012009.jpg 1237,98,1437,312,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012010.jpg 1220,506,1424,729,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012011.jpg 1208,1016,1410,1231,0 1112,420,1288,569,0 1571,88,1714,263,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012012.jpg 1090,835,1281,971,0 1569,502,1702,667,0 1192,1429,1388,1649,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012013.jpg 1553,908,1679,1088,0 1083,1249,1265,1402,0 1173,1849,1377,2061,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012014.jpg 1067,1751,1247,1900,0 1543,1416,1663,1588,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012015.jpg 1526,1837,1649,2006,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012016.jpg 469,216,635,337,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012017.jpg 451,627,618,745,0 2275,4,2463,135,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012018.jpg 439,1131,600,1239,0 2245,427,2441,614,0 3294,25,3486,229,0 3592,12,3847,261,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012019.jpg 432,1541,592,1661,0 1126,90,1314,282,0 2226,843,2428,1039,0 3279,425,3473,641,0 3588,408,3826,678,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012020.jpg 402,2041,564,2168,0 1112,598,1292,778,0 2218,1333,2416,1539,0 3271,925,3465,1129,0 3567,898,3822,1173,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012021.jpg 365,2,579,180,0 586,208,812,408,0 1010,2,1241,106,0 1104,1029,1277,1188,0 2208,1755,2410,1961,0 3267,1335,3453,1529,0 3567,1314,3810,1586,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012022.jpg 363,361,577,604,0 573,614,800,827,0 994,245,1237,537,0 1090,1433,1271,1620,0 3255,1745,3447,1941,0 3557,1729,3814,2008,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012023.jpg 339,839,555,1108,0 557,1110,773,1325,0 990,759,1224,1027,0 1071,1943,1255,2120,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012024.jpg 328,1245,541,1514,0 545,1529,763,1743,0 977,1188,1216,1445,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012025.jpg 314,1751,522,2022,0 522,2029,758,2168,0 963,1704,1202,1947,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012026.jpg 428,10,581,173,0 2112,147,2412,373,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012027.jpg 410,422,575,586,0 2106,559,2394,784,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012028.jpg 394,914,551,1078,0 2081,1053,2375,1286,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012029.jpg 377,1329,541,1498,0 2079,1473,2373,1702,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012030.jpg 365,1741,526,1914,0 2067,1882,2361,2116,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012031.jpg 1969,178,2145,359,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012032.jpg 1955,602,2128,767,0 1865,6,2094,98,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012033.jpg 1847,314,2049,586,0 1932,1080,2112,1267,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012034.jpg 1837,731,2041,996,0 1924,1498,2110,1690,0 2502,100,2698,294,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012035.jpg 396,6,612,141,0 1824,1229,2024,1502,0 1902,1998,2091,2168,0 2488,598,2686,786,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012036.jpg 377,355,594,555,0 1816,1645,2022,1920,0 2465,1012,2673,1192,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012037.jpg 357,761,577,971,0 2455,1422,2663,1608,0 2137,284,2330,480,0 2649,131,2924,382,0 1812,2059,1998,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012038.jpg 337,1257,565,1467,0 2122,773,2310,978,0 2647,631,2912,890,0 2441,1916,2663,2100,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012039.jpg 204,14,424,169,0 332,1676,545,1884,0 2112,1190,2298,1392,0 2628,1059,2896,1296,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012040.jpg 204,425,410,578,0 2092,1612,2286,1818,0 2616,1473,2896,1718,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012041.jpg 169,906,367,1057,0 2598,1967,2882,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012042.jpg 153,1318,359,1469,0 1257,190,1449,378,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012043.jpg 1255,698,1422,873,0 135,1829,347,1976,0 1930,2,2071,131,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012044.jpg 1920,400,2065,551,0 1237,1110,1414,1292,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012045.jpg 1222,1529,1406,1710,0 1910,814,2053,971,0 1775,106,2071,331,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012046.jpg 1763,600,2059,827,0 1212,2033,1381,2168,0 1896,1318,2035,1465,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012047.jpg 1749,1016,2037,1241,0 1877,1727,2022,1884,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012048.jpg 1720,1506,2030,1737,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012049.jpg 1720,1931,2026,2159,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012050.jpg 626,165,812,382,0 1249,200,1420,429,0 1914,4,2116,84,0 2626,2,2857,178,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012051.jpg 608,665,779,880,0 1237,692,1396,941,0 1904,390,2108,584,0 2610,478,2855,682,0 1616,43,1794,255,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012052.jpg 1135,6,1363,137,0 592,1090,783,1296,0 1220,1127,1388,1343,0 1604,463,1786,676,0 1894,796,2092,998,0 2596,882,2820,1094,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012053.jpg 1937,1,2226,147,0 1120,343,1335,557,0 1598,884,1763,1082,0 586,1500,767,1708,0 1210,1535,1365,1759,0 1881,1214,2079,1414,0 2588,1298,2818,1531,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012054.jpg 1924,431,2208,643,0 1108,843,1320,1061,0 1579,1380,1751,1582,0 563,2008,746,2168,0 1194,2039,1358,2168,0 1873,1720,2063,1916,0 2565,1796,2796,2033,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012055.jpg 1910,847,2194,1055,0 1088,1257,1310,1469,0 1565,1794,1732,2006,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012056.jpg 1071,1759,1292,1978,0 1892,1353,2173,1559,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012057.jpg 2435,180,2700,414,0 1894,1780,2167,1971,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012058.jpg 1975,225,2130,425,0 2424,576,2683,841,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012059.jpg 1965,720,2118,918,0 2426,1071,2667,1314,0 1524,4,1700,125,0 2906,4,3116,163,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012060.jpg 1537,312,1716,543,0 2900,351,3104,571,0 1965,1141,2106,1339,0 2410,1488,2665,1751,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012061.jpg 1510,729,1704,965,0 2892,761,3094,996,0 1941,1565,2090,1743,0 2396,1904,2647,2159,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012062.jpg 1512,1229,1683,1463,0 2881,1261,3088,1490,0 1920,2063,2087,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012063.jpg 1496,1637,1686,1884,0 2875,1667,3075,1906,0 1392,182,1635,365,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012064.jpg 1367,686,1618,857,0 3741,229,3971,484,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012065.jpg 3841,598,4063,794,0 1349,1108,1604,1280,0 2302,284,2553,473,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012066.jpg 1408,578,1577,765,0 2277,1184,2537,1384,0 1300,2037,1572,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012067.jpg 1396,1082,1565,1273,0 2257,1686,2512,1888,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012068.jpg 1371,1500,1551,1704,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012069.jpg 1365,2008,1543,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012070.jpg 459,671,663,810,0 1279,282,1479,492,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012071.jpg 449,1086,663,1210,0 1261,706,1473,906,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012072.jpg 532,43,769,282,0 437,1494,643,1633,0 1259,1118,1469,1327,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012073.jpg 514,563,749,776,0 1241,1618,1443,1822,0 404,1996,632,2151,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012074.jpg 508,973,730,1192,0 1243,2037,1438,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012075.jpg 492,1471,708,1692,0 775,129,1014,371,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012076.jpg 755,537,996,784,0 471,1894,698,2129,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012077.jpg 749,965,977,1196,0 1347,29,1437,165,0 2288,4,2500,149,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012078.jpg 720,1449,951,1690,0 2290,457,2483,653,0 1337,518,1412,669,0 1741,327,1924,459,0 1367,88,1581,276,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012079.jpg 1351,500,1569,694,0 712,1880,943,2116,0 1316,929,1404,1084,0 1708,735,1914,884,0 2269,865,2473,1073,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012080.jpg 1300,1343,1390,1492,0 1343,935,1555,1114,0 1700,1157,1904,1296,0 2255,1286,2465,1482,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012081.jpg 1326,1404,1532,1629,0 1290,1843,1369,1994,0 1686,1651,1881,1788,0 2241,1780,2447,1980,0 496,31,645,178,0 1032,186,1241,341,0 1224,73,1381,210,0 1935,312,2086,473,0 1802,2,1965,118,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012082.jpg 492,443,637,592,0 1028,590,1228,751,0 1206,486,1365,627,0 1790,294,1959,541,0 1928,720,2077,873,0 1310,1835,1535,2037,0 1667,2071,1877,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012083.jpg 475,861,616,996,0 1008,1014,1220,1165,0 1204,896,1347,1047,0 1779,710,1951,959,0 1910,1145,2047,1298,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012084.jpg 455,1355,606,1506,0 994,1518,1200,1659,0 1183,1396,1335,1533,0 1763,1218,1932,1463,0 1898,1641,2049,1794,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012085.jpg 2273,190,2483,463,0 437,1784,588,1920,0 973,1933,1188,2084,0 1175,1818,1318,1967,0 1749,1629,1920,1873,0 1888,2067,2041,2165,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012086.jpg 2257,698,2469,949,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012087.jpg 2251,1116,2451,1373,0 1845,4,2020,153,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012088.jpg 2226,1612,2451,1876,0 1830,435,2002,639,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012089.jpg 1069,35,1251,233,0 1814,849,2002,1067,0 2214,2027,2432,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012090.jpg 675,471,837,637,0 1808,1349,1977,1563,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012091.jpg 659,892,828,1055,0 2451,61,2688,325,0 1796,1773,1971,1984,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012092.jpg 2455,473,2673,729,0 637,1304,816,1471,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012093.jpg 469,269,626,461,0 679,286,910,459,0 1588,169,1765,461,0 2428,973,2669,1225,0 622,1798,798,1971,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012094.jpg 463,686,610,869,0 671,702,888,873,0 1577,594,1751,873,0 2424,1398,2649,1641,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012095.jpg 449,1096,594,1282,0 920,110,1145,257,0 649,1116,883,1280,0 1567,998,1735,1292,0 2412,1814,2645,2057,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012096.jpg 1216,6,1408,241,0 902,606,1120,749,0 428,1612,583,1788,0 645,1618,859,1794,0 1555,1500,1720,1790,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012097.jpg 1202,408,1383,645,0 920,1002,1112,1171,0 420,2020,567,2168,0 630,2020,841,2168,0 1543,1912,1715,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012098.jpg 516,284,702,482,0 426,371,608,547,0 1194,898,1367,1153,0 879,1529,1088,1669,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012099.jpg 504,690,690,896,0 414,790,586,965,0 1179,1314,1353,1569,0 867,1939,1081,2080,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012100.jpg 500,1104,677,1318,0 396,1202,577,1378,0 1161,1735,1339,1988,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012101.jpg 477,1600,663,1827,0 386,1706,565,1888,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012102.jpg 1455,41,1618,261,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012103.jpg 1443,549,1598,761,0 2059,159,2239,361,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012104.jpg 1432,965,1588,1182,0 2049,586,2216,784,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012105.jpg 1416,1390,1569,1592,0 2028,1000,2202,1186,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012106.jpg 1402,1876,1557,2090,0 2024,1500,2192,1704,0 1241,8,1447,178,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012107.jpg 1224,404,1439,592,0 2004,1912,2183,2125,0 1526,53,1688,182,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012108.jpg 1514,463,1683,594,0 1214,816,1410,1004,0 3292,310,3522,502,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012109.jpg 1498,963,1663,1084,0 1192,1318,1400,1512,0 3283,804,3524,996,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012110.jpg 498,247,651,402,0 1473,1545,1653,1669,0 3261,1388,3506,1569,0 1179,1896,1379,2090,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012111.jpg 479,667,628,810,0 1890,22,2041,198,0 1459,1971,1637,2080,0 3263,1798,3494,1990,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012112.jpg 1863,512,2026,690,0 465,1176,618,1312,0 2700,359,2908,549,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012113.jpg 1861,931,2020,1100,0 2698,771,2865,971,0 449,1573,602,1722,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012114.jpg 439,1988,594,2149,0 1849,1341,2002,1520,0 2683,1190,2859,1369,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012115.jpg 1826,1845,1979,2016,0 2669,1696,2865,1882,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012116.jpg 1771,341,1916,465,0 2596,125,2824,331,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012117.jpg 1757,837,1914,976,0 2586,629,2820,818,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012118.jpg 1741,1259,1894,1388,0 2567,1041,2808,1241,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012119.jpg 1730,1678,1877,1802,0 2565,1449,2796,1655,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012120.jpg 2024,135,2208,351,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012121.jpg 2012,547,2200,761,0 1708,147,1890,347,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012122.jpg 1259,310,1445,508,0 1690,647,1879,841,0 1994,1053,2188,1253,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012123.jpg 1249,737,1439,925,0 1681,1063,1863,1253,0 1988,1478,2167,1671,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012124.jpg 1235,1149,1428,1335,0 1671,1484,1855,1673,0 1977,1898,2163,2088,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012125.jpg 1010,165,1192,410,0 1210,1657,1412,1845,0 1655,1986,1844,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012126.jpg 1006,586,1179,839,0 1222,2082,1401,2168,0 2600,4,2830,125,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012127.jpg 988,998,1169,1247,0 2594,369,2816,527,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012128.jpg 963,1504,1157,1743,0 2577,867,2808,1027,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012129.jpg 428,182,641,382,0 2577,1269,2790,1441,0 957,1925,1143,2159,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012130.jpg 1388,198,1559,373,0 410,594,616,800,0 2553,1669,2779,1867,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012131.jpg 1357,704,1553,865,0 388,1094,616,1306,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012132.jpg 1355,1127,1535,1282,0 381,1502,588,1722,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012133.jpg 1337,1627,1514,1788,0 357,2012,580,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012134.jpg 2353,153,2512,351,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012135.jpg 437,322,602,508,0 2341,561,2498,765,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012136.jpg 424,739,586,931,0 2332,967,2496,1182,0 3192,129,3357,331,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012137.jpg 396,1233,567,1439,0 2320,1467,2483,1692,0 3179,618,3349,808,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012138.jpg 388,1655,555,1859,0 2304,1871,2475,2106,0 3169,1033,3341,1220,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012139.jpg 3151,1439,3343,1629,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012140.jpg 367,912,569,1053,0 435,261,677,488,0 945,267,1188,496,0 2004,1,2249,204,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012141.jpg 410,757,651,978,0 347,1422,549,1553,0 937,755,1175,1002,0 2006,465,2226,688,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012142.jpg 337,1833,541,1959,0 400,1169,641,1384,0 902,1178,1159,1418,0 1998,871,2200,1118,0 2908,4,3120,102,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012143.jpg 386,1682,626,1888,0 883,1682,1145,1920,0 1971,1378,2179,1620,0 2902,418,3094,592,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012144.jpg 1971,1796,2167,2035,0 2888,825,3079,1012,0 520,114,686,357,0 1630,6,1820,167,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012145.jpg 506,610,669,857,0 1618,437,1804,641,0 2871,1327,3075,1508,0 1861,331,2088,549,0 1422,37,1577,198,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012146.jpg 1414,443,1577,608,0 488,1037,653,1267,0 1602,859,1802,1063,0 1843,751,2083,967,0 2877,1731,3065,1918,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012147.jpg 467,1522,635,1780,0 1390,947,1555,1102,0 1592,1361,1788,1571,0 1832,1247,2053,1459,0 2192,8,2447,169,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012148.jpg 2183,384,2428,573,0 461,1951,630,2168,0 1377,1367,1553,1516,0 1581,1780,1777,1994,0 1822,1667,2045,1884,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012149.jpg 2159,890,2416,1065,0 1363,1861,1530,2025,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012150.jpg 2159,1310,2418,1484,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012151.jpg 2135,1718,2388,1896,0 2859,10,3096,151,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012152.jpg 2859,422,3088,643,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012153.jpg 2843,829,3079,1063,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012154.jpg 2832,1243,3061,1469,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012155.jpg 2816,1745,3047,1973,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012156.jpg 561,273,765,486,0 354,1,669,155,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012157.jpg 322,408,645,661,0 549,767,749,963,0 588,25,810,325,0 1573,2,1763,180,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012158.jpg 306,814,626,1080,0 526,1180,732,1388,0 581,457,790,737,0 759,304,1010,494,0 1567,384,1739,596,0 1939,239,2235,386,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012159.jpg 296,1318,612,1580,0 514,1694,712,1890,0 565,959,773,1235,0 755,800,1004,994,0 1547,880,1730,1094,0 1916,749,2245,873,0 1157,210,1339,363,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012160.jpg 1155,114,1302,300,0 1153,625,1339,778,0 739,1212,996,1410,0 555,1373,757,1659,0 273,1753,592,2002,0 1535,1298,1712,1510,0 1906,1163,2224,1300,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012161.jpg 1135,541,1294,700,0 1145,1035,1318,1202,0 722,1616,971,1827,0 537,1784,753,2071,0 1526,1714,1704,1920,0 1890,1580,2202,1722,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012162.jpg 641,45,837,233,0 1112,1029,1283,1200,0 1126,1537,1308,1704,0 1881,2086,2196,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012163.jpg 632,457,818,637,0 1106,1457,1267,1618,0 1112,1955,1298,2112,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012164.jpg 626,869,808,1051,0 1086,1867,1249,2033,0 912,316,1128,494,0 1430,261,1604,496,0 2104,229,2232,406,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012165.jpg 590,1371,779,1545,0 896,808,1118,990,0 1410,763,1596,980,0 2088,720,2222,904,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012166.jpg 575,1778,783,1959,0 881,1218,1106,1418,0 1392,1182,1579,1394,0 2063,1122,2212,1320,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012167.jpg 869,1639,1081,1839,0 1375,1594,1563,1816,0 2061,1547,2194,1727,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012168.jpg 467,322,643,527,0 1306,165,1492,355,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012169.jpg 435,725,632,941,0 1279,586,1479,765,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012170.jpg 420,1157,622,1347,0 1267,1006,1469,1184,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012171.jpg 408,1663,594,1857,0 1263,1502,1455,1692,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012172.jpg 1241,1916,1443,2108,0 2702,8,2832,147,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012173.jpg 1798,420,1975,600,0 2683,880,2808,1059,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012174.jpg 1792,841,1963,1025,0 2673,1286,2792,1465,0 2398,33,2610,241,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012175.jpg 1777,1335,1939,1522,0 2394,547,2596,735,0 2659,1786,2786,1965,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012176.jpg 2377,949,2575,1149,0 1769,1743,1939,1941,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012177.jpg 2363,1373,2569,1563,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012178.jpg 2349,1871,2563,2073,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012179.jpg 2132,431,2355,631,0 2412,84,2581,302,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012180.jpg 2112,845,2347,1051,0 2404,510,2575,708,0 2371,47,2606,222,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012181.jpg 1016,141,1149,314,0 2363,457,2604,641,0 2388,922,2567,1125,0 2104,1261,2337,1463,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012182.jpg 996,629,1141,814,0 2349,955,2596,1141,0 2377,1414,2547,1622,0 2092,1755,2324,1957,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012183.jpg 992,1049,1130,1229,0 2337,1376,2571,1545,0 2371,1847,2535,2047,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012184.jpg 837,157,1083,331,0 971,1463,1124,1649,0 2328,1790,2567,1973,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012185.jpg 818,731,1081,916,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012186.jpg 798,1139,1057,1329,0 2416,222,2649,412,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012187.jpg 786,1639,1041,1839,0 2402,716,2637,914,0 2641,165,2828,337,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012188.jpg 779,2053,1019,2168,0 2367,1122,2628,1333,0 2620,578,2812,745,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012189.jpg 757,186,983,451,0 2614,994,2800,1165,0 2371,1549,2620,1737,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012190.jpg 732,686,973,971,0 1712,6,1902,116,0 2594,1498,2796,1673,0 2353,2059,2598,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012191.jpg 712,1100,955,1384,0 1283,133,1432,318,0 1643,212,1890,537,0 2581,1904,2786,2084,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012192.jpg 1273,555,1420,720,0 702,1527,945,1798,0 1630,631,1865,949,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012193.jpg 1263,1049,1408,1218,0 690,2020,923,2168,0 1616,1145,1853,1453,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012194.jpg 686,61,857,286,0 906,118,1100,320,0 3020,388,3181,604,0 1232,1463,1388,1635,0 1612,1571,1843,1859,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012195.jpg 671,563,845,784,0 890,610,1088,818,0 2624,2,2851,176,0 3002,867,3169,1102,0 1230,1961,1379,2129,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012196.jpg 651,976,826,1202,0 881,1035,1065,1239,0 2990,1292,3167,1525,0 2128,37,2304,288,0 2620,359,2839,571,0 3137,257,3332,459,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012197.jpg 639,1386,818,1618,0 865,1451,1059,1655,0 2108,465,2296,702,0 2600,788,2835,998,0 3130,669,3326,876,0 2969,1708,3151,1922,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012198.jpg 618,1886,808,2116,0 839,1939,1045,2153,0 2108,959,2288,1200,0 2594,1284,2820,1498,0 3118,1167,3314,1378,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012199.jpg 2092,1386,2267,1616,0 2592,1710,2802,1900,0 3118,1576,3286,1796,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012200.jpg 2063,1798,2255,2027,0 3088,1986,3286,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012201.jpg 2620,320,2837,502,0 3273,420,3469,676,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012202.jpg 3279,841,3455,1088,0 2602,737,2826,906,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012203.jpg 1259,151,1459,339,0 2592,1145,2818,1331,0 3269,1243,3439,1498,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012204.jpg 1108,635,1308,865,0 2581,1639,2800,1820,0 3253,1735,3445,1990,0 1661,16,1873,194,0 1990,2,2202,139,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012205.jpg 1651,510,1853,688,0 1094,1131,1298,1363,0 1975,427,2175,629,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012206.jpg 1092,1547,1288,1788,0 1641,920,1847,1112,0 1971,835,2167,1053,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012207.jpg 865,251,1079,422,0 2018,267,2196,490,0 1628,1333,1835,1527,0 1949,1259,2157,1471,0 1077,1959,1274,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012208.jpg 841,751,1071,908,0 1220,251,1459,471,0 1798,2,2012,129,0 1994,773,2169,992,0 1612,1831,1814,2027,0 1941,1751,2143,1971,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012209.jpg 822,1167,1053,1329,0 1979,1180,2167,1412,0 1198,659,1457,880,0 1781,329,1994,547,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012210.jpg 812,1576,1028,1761,0 1190,1069,1430,1286,0 1781,745,1977,943,0 1969,1604,2163,1820,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012211.jpg 1167,1578,1414,1792,0 1753,1245,1965,1455,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012212.jpg 1169,1986,1410,2165,0 1753,1657,1947,1876,0 694,112,851,306,0 1322,263,1520,427,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012213.jpg 686,537,849,718,0 1318,680,1510,853,0 1720,2067,1927,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012214.jpg 665,1031,832,1216,0 1292,1180,1492,1357,0 2906,245,3026,422,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012215.jpg 651,1449,820,1635,0 1279,1600,1481,1778,0 2904,649,3010,839,0 2198,306,2410,482,0 2849,4,3061,106,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012216.jpg 635,1876,816,2053,0 1271,2018,1469,2168,0 2886,1053,3002,1257,0 2200,708,2400,904,0 2839,341,3051,506,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012217.jpg 2826,825,3037,998,0 2177,1206,2390,1406,0 2877,1555,2992,1753,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012218.jpg 2818,1235,3032,1410,0 2165,1627,2371,1827,0 2861,1967,2981,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012219.jpg 2802,1665,3018,1822,0 2149,2047,2375,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012220.jpg 3194,155,3463,386,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012221.jpg 3181,565,3445,786,0 3006,63,3141,247,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012222.jpg 2098,116,2232,276,0 2981,553,3137,725,0 3122,231,3349,459,0 3171,1053,3418,1282,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012223.jpg 2306,2,2477,151,0 2086,518,2208,678,0 2977,963,3122,1143,0 3110,639,3332,876,0 3173,1467,3410,1698,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012224.jpg 1416,65,1618,320,0 2304,353,2459,563,0 2073,947,2214,1098,0 3108,1045,3328,1284,0 2963,1361,3122,1553,0 3151,1880,3406,2108,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012225.jpg 1398,565,1608,820,0 2061,1449,2181,1596,0 2286,843,2457,1076,0 3083,1537,3322,1780,0 2945,1861,3126,2053,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012226.jpg 1379,978,1592,1229,0 2267,1255,2432,1482,0 2055,1853,2177,2002,0 3077,1951,3313,2168,0 2232,245,2392,445,0 2618,159,2779,314,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012227.jpg 1379,1400,1579,1641,0 2261,1669,2428,1910,0 2218,669,2375,863,0 2602,561,2767,727,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012228.jpg 1371,1900,1571,2143,0 2202,1165,2365,1351,0 2588,1061,2751,1229,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012229.jpg 2190,1582,2355,1771,0 2588,1473,2741,1641,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012230.jpg 2563,1971,2730,2135,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012231.jpg 2196,420,2365,588,0 2967,108,3124,339,0 3098,65,3259,325,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012232.jpg 1218,18,1375,180,0 2183,837,2363,1000,0 2961,514,3112,739,0 3081,478,3249,755,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012233.jpg 1198,590,1359,747,0 2167,1416,2345,1588,0 2937,1069,3094,1308,0 3057,1065,3232,1308,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012234.jpg 1188,1000,1347,1165,0 2283,212,2471,408,0 2153,1839,2335,1996,0 2935,1492,3083,1722,0 3049,1492,3220,1739,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012235.jpg 1957,259,2202,445,0 1175,1504,1332,1663,0 2265,704,2447,914,0 2965,296,3116,465,0 2918,1988,3067,2168,0 3032,1971,3216,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012236.jpg 1157,1920,1310,2086,0 1945,661,2192,861,0 2255,1122,2445,1320,0 2953,706,3094,873,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012237.jpg 1935,1159,2173,1355,0 2253,1620,2424,1814,0 2939,1198,3092,1365,0 2122,169,2283,327,0 2026,6,2237,157,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012238.jpg 2010,318,2210,565,0 2255,286,2451,492,0 2116,586,2286,733,0 1914,1569,2159,1773,0 2224,2047,2421,2168,0 2937,1620,3079,1780,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012239.jpg 1998,741,2198,992,0 2230,696,2437,922,0 2108,994,2265,1159,0 1908,1986,2159,2168,0 2922,2018,3079,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012240.jpg 1983,1235,2196,1486,0 2237,1186,2416,1408,0 2079,1492,2251,1659,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012241.jpg 1990,253,2214,545,0 1973,1657,2167,1896,0 2220,1608,2424,1837,0 2075,1914,2239,2057,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012242.jpg 1975,653,2198,951,0 2202,2022,2408,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012243.jpg 1959,1169,2183,1457,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012244.jpg 1959,1669,2165,1959,0 1161,1,1355,204,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012245.jpg 428,6,718,269,0 1151,427,1363,616,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012246.jpg 416,410,702,669,0 1137,825,1330,1022,0 2057,257,2214,549,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012247.jpg 2045,761,2198,1045,1 404,925,686,1161,0 1120,1329,1314,1510,0 1483,225,1673,457,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012248.jpg 1269,282,1545,508,0 2618,380,2771,565,0 2724,325,2963,478,0 381,1341,673,1586,0 1477,637,1647,873,0 1110,1755,1302,1947,0 2028,1188,2200,1455,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012249.jpg 2014,1582,2173,1865,1 371,1757,653,1992,0 1253,704,1539,914,0 1459,1045,1651,1284,0 2616,794,2759,982,0 2716,735,2953,886,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012250.jpg 375,210,555,376,0 1053,59,1212,210,0 1245,1202,1514,1414,0 2610,1304,2753,1467,0 2700,1235,2939,1388,0 1451,1561,1630,1784,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012251.jpg 345,625,535,798,0 1047,469,1200,627,0 1228,1610,1510,1833,0 1437,1973,1618,2168,0 2592,1718,2739,1884,0 2688,1651,2922,1818,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012252.jpg 339,1120,510,1282,0 1032,969,1181,1127,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012253.jpg 322,1529,500,1714,0 1010,1384,1175,1547,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012254.jpg 1004,1800,1155,1969,0 304,1945,492,2135,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012255.jpg 1700,371,1930,620,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012256.jpg 1498,171,1704,408,0 1675,786,1918,1051,0 2522,4,2722,182,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012257.jpg 1465,606,1669,822,0 1671,1192,1908,1478,0 2475,167,2681,390,0 2522,384,2718,588,0 2641,284,2783,418,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012258.jpg 932,271,1122,537,0 1455,1098,1663,1322,0 1655,1692,1890,1976,0 2043,78,2230,218,0 2465,663,2657,894,0 2512,863,2700,1065,0 2624,759,2767,906,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012259.jpg 912,702,1100,957,0 2035,496,2214,633,0 1443,1514,1647,1745,0 2455,1078,2651,1312,0 2502,1290,2696,1492,0 2592,1198,2751,1322,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012260.jpg 1473,122,1688,320,0 904,1108,1088,1371,0 2024,910,2206,1043,0 1432,1939,1635,2147,0 2445,1502,2641,1710,0 2490,1720,2681,1902,0 2606,1606,2747,1731,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012261.jpg 1451,620,1675,820,0 894,1616,1075,1880,0 2012,1410,2186,1549,0 2424,1998,2625,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012262.jpg 1439,1037,1663,1231,0 877,2037,1056,2168,0 1996,1822,2179,1971,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012263.jpg 1424,1451,1651,1651,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012264.jpg 1873,365,2067,531,0 1418,1949,1642,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012265.jpg 1859,780,2055,943,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012266.jpg 1851,1204,2041,1369,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012267.jpg 1792,373,2012,625,0 1832,1706,2028,1871,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012268.jpg 1775,784,1996,1035,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012269.jpg 1769,1208,1973,1451,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012270.jpg 1500,398,1679,588,0 1753,1716,1961,1947,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012271.jpg 659,308,847,500,0 1481,816,1673,994,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012272.jpg 632,712,830,912,0 1461,1227,1657,1416,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012273.jpg 624,1225,814,1422,0 1459,1733,1639,1912,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012274.jpg 1222,92,1398,273,0 612,1637,804,1829,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012275.jpg 1206,586,1381,753,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012276.jpg 1198,996,1369,1176,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012277.jpg 1181,1418,1365,1586,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012278.jpg 1275,210,1422,325,0 1500,94,1683,292,0 2693,1,2900,245,0 1159,1908,1345,2088,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012279.jpg 2677,371,2898,669,0 1337,16,1563,210,0 1257,631,1400,743,0 1490,514,1673,700,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012280.jpg 1312,518,1543,706,0 1239,1127,1377,1233,0 1475,1012,1665,1188,0 2679,861,2886,1159,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012281.jpg 1306,929,1537,1133,0 1230,1543,1359,1649,0 1461,1429,1647,1610,0 2667,1276,2859,1576,0 2851,49,3004,271,0 2900,8,3116,143,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012282.jpg 1298,1353,1516,1547,0 1220,1955,1353,2063,0 1455,1851,1624,2025,0 2839,461,2992,682,0 2890,353,3106,555,0 2653,1694,2863,1996,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012283.jpg 1281,1861,1512,2059,0 2824,961,2981,1182,0 2879,839,3092,1043,0 2379,1,2604,202,0 2420,200,2653,431,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012284.jpg 2363,404,2588,612,0 2408,616,2641,847,0 2865,1249,3077,1457,0 2814,1376,2986,1594,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012285.jpg 3271,327,3412,512,0 2357,898,2575,1108,0 2396,1116,2626,1343,0 2853,1745,3069,1945,0 2804,1884,2965,2092,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012286.jpg 2051,4,2204,231,0 3255,735,3402,920,0 2343,1318,2565,1529,0 2377,1533,2620,1767,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012287.jpg 2041,416,2204,639,0 3249,1147,3390,1329,0 2330,1729,2551,1937,0 2363,1941,2604,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012288.jpg 2024,920,2186,1137,0 3239,1639,3381,1827,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012289.jpg 2012,1339,2167,1549,0 3224,2047,3376,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012290.jpg 2002,1753,2155,1963,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012291.jpg 490,263,669,455,0 1735,310,1951,504,0 1935,280,2200,516,0 2418,361,2579,539,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012292.jpg 469,673,649,859,0 1220,6,1432,180,0 3067,231,3292,435,0 1737,733,1924,922,0 1914,690,2190,933,0 2406,776,2581,955,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012293.jpg 2394,1265,2559,1459,1 426,2,645,169,0 459,1173,626,1363,0 1206,492,1408,682,0 1714,1239,1926,1420,0 1904,1196,2181,1429,0 3051,712,3292,922,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012294.jpg 2381,1767,2553,1943,1 414,459,618,657,0 1190,992,1400,1176,0 435,1671,612,1873,0 1700,1743,1920,1931,0 1898,1698,2149,1931,0 3047,1206,3275,1418,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012295.jpg 390,953,598,1149,0 1163,1486,1379,1676,0 3035,1698,3263,1908,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012296.jpg 383,1380,586,1573,0 1157,1910,1359,2088,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012297.jpg 357,1876,569,2069,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012298.jpg 1118,176,1394,435,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012299.jpg 1116,580,1381,853,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012300.jpg 1098,1090,1369,1365,0 1673,286,1896,484,0 2528,108,2675,257,0 2288,376,2426,565,0 2488,335,2655,580,0 2681,345,2892,508,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012301.jpg 1086,1498,1353,1784,0 1663,710,1894,906,0 2275,782,2426,992,0 2514,522,2673,680,0 2475,747,2645,990,0 2673,759,2867,916,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012302.jpg 1510,233,1769,441,0 1651,1125,1881,1325,0 1073,1922,1350,2168,0 2261,1190,2406,1392,0 2469,1169,2635,1412,0 2500,927,2659,1096,0 2657,1173,2871,1327,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012303.jpg 1492,729,1761,937,0 1639,1618,1869,1820,0 2251,1696,2394,1888,0 2479,196,2626,322,0 2481,1435,2649,1596,0 2437,1669,2628,1920,0 2643,1673,2837,1825,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012304.jpg 2994,278,3181,455,0 2465,598,2614,725,0 1475,1147,1739,1353,0 1620,2022,1860,2168,0 2467,1851,2639,2014,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012305.jpg 1539,243,1702,449,0 1755,165,1998,392,0 1459,1563,1735,1771,0 2459,1014,2604,1139,0 2975,694,3181,863,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012306.jpg 1894,196,2039,347,0 2390,208,2522,343,0 1516,739,1694,955,0 1739,669,1992,898,0 2965,1184,3151,1361,0 2443,1514,2579,1629,0 1451,2069,1718,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012307.jpg 1877,608,2024,767,0 2377,620,2508,757,0 1508,1157,1669,1369,0 1739,1082,1977,1312,0 2955,1606,3153,1765,0 2428,1920,2573,2047,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012308.jpg 1871,1020,2020,1178,0 2363,1033,2496,1173,0 1494,1578,1665,1792,0 1720,1504,1967,1731,0 2937,2020,3143,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012309.jpg 1857,1516,2004,1678,0 2355,1527,2477,1657,0 1718,2008,1945,2168,0 1500,2067,1643,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012310.jpg 3428,196,3626,429,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012311.jpg 3492,653,3730,839,0 731,1,926,114,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012312.jpg 757,339,1041,590,0 3483,1127,3704,1355,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012313.jpg 765,753,1051,1004,0 3477,1533,3692,1761,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012314.jpg 745,1276,1030,1514,0 2426,171,2590,337,0 3465,2031,3680,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012315.jpg 730,1696,1022,1937,0 2400,588,2583,745,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012316.jpg 2396,1000,2573,1159,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012317.jpg 2379,1498,2561,1649,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012318.jpg 1377,314,1561,539,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012319.jpg 673,112,869,300,0 947,94,1086,284,0 1208,161,1392,300,0 1390,871,1608,1112,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012320.jpg 655,610,867,794,0 932,590,1069,778,0 1192,651,1371,802,0 1371,1369,1592,1606,0 1720,4,1963,167,0 2165,206,2365,484,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012321.jpg 645,1029,841,1206,0 908,998,1059,1200,0 1169,1065,1355,1220,0 1357,1794,1588,2025,0 1704,384,1949,580,0 2155,633,2357,900,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012322.jpg 630,1441,830,1622,0 896,1414,1047,1620,0 1161,1484,1349,1639,0 1692,808,1941,992,0 2147,1047,2343,1312,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012323.jpg 610,1937,814,2120,0 890,1910,1024,2112,0 1151,1980,1335,2141,0 1683,1302,1924,1486,0 2130,1549,2328,1814,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012324.jpg 1671,1722,1912,1898,0 2118,1965,2319,2168,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012325.jpg 2198,135,2394,361,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012326.jpg 1908,504,2063,741,0 2192,629,2379,853,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012327.jpg 1977,922,2147,1149,0 2173,1047,2371,1257,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012328.jpg 1969,1420,2118,1653,0 2161,1545,2355,1765,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012329.jpg 2322,602,2632,867,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012330.jpg 2308,1020,2618,1276,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012331.jpg 2292,1510,2608,1782,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012332.jpg 2486,284,2888,686,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012333.jpg 2473,786,2867,1176,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012334.jpg 2439,1206,2857,1600,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012335.jpg 2443,1633,2845,2004,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012336.jpg 2261,349,2508,527,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012337.jpg 2237,855,2512,1027,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012338.jpg 2239,1276,2486,1443,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012339.jpg 2165,294,2416,559,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012340.jpg 2163,720,2410,976,1 2294,8,2561,202,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012341.jpg 2286,410,2537,690,1 2139,1220,2396,1469,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012342.jpg 2277,827,2537,1098,1 2135,1629,2383,1888,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012343.jpg 2267,1239,2524,1525,1 2120,2047,2368,2168,1 2365,67,2651,329,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012344.jpg 2359,467,2637,729,1 2263,1659,2518,1931,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012345.jpg 2349,969,2620,1227,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012346.jpg 2335,1378,2614,1635,1 2743,57,3047,339,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012347.jpg 2075,8,2571,349,1 2722,463,3045,753,1 2337,1798,2606,2045,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012348.jpg 2067,490,2567,839,1 2706,959,3026,1247,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012349.jpg 2063,906,2551,1259,1 2698,1363,3018,1657,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012350.jpg 2063,1314,2537,1686,1 2683,1771,3010,2082,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012351.jpg 2026,1806,2522,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012352.jpg 2508,263,2808,504,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012353.jpg 2510,782,2800,1002,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012354.jpg 2483,1188,2777,1408,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012355.jpg 2471,1608,2775,1839,1 1077,1,1396,143,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012356.jpg 1067,349,1365,643,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012357.jpg 1051,757,1359,1055,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012358.jpg 1043,1194,1345,1484,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012359.jpg 1022,1678,1322,1978,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012360.jpg 2247,225,2443,500,1 2271,6,2561,204,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012361.jpg 2261,396,2537,620,1 2226,641,2451,922,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012362.jpg 2249,882,2530,1116,1 2216,1149,2435,1435,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012363.jpg 2230,1308,2506,1537,1 2206,1561,2414,1839,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012364.jpg 2224,1727,2502,1941,1 2186,1969,2406,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012365.jpg 1830,39,2055,327,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012366.jpg 1814,537,2043,827,1 628,167,928,398,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012367.jpg 618,563,908,814,1 1808,941,2032,1247,1 1469,29,1659,306,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012368.jpg 1461,527,1655,812,1 590,1059,892,1304,1 1786,1445,2006,1731,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012369.jpg 1453,945,1622,1210,1 577,1476,890,1720,1 1779,1851,2000,2153,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012370.jpg 1443,1451,1616,1714,1 557,1980,865,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012371.jpg 1416,1857,1608,2127,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012372.jpg 655,2,930,198,1 3000,110,3237,376,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012373.jpg 647,469,914,690,1 2977,598,3228,869,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012374.jpg 628,894,896,1100,1 2969,1012,3228,1278,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012375.jpg 610,1296,877,1516,1 2953,1404,3224,1704,1 861,14,1149,388,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012376.jpg 847,469,1141,878,1 602,1810,865,2012,1 2949,1908,3212,2167,1 1881,4,2086,167,1 2106,8,2486,218,1 3102,8,3343,212,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012377.jpg 830,894,1126,1304,1 1861,363,2081,584,1 2094,198,2481,633,1 3088,355,3324,631,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012378.jpg 822,1308,1108,1722,1 1865,784,2061,988,1 2094,606,2457,1057,1 3086,761,3308,1035,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012379.jpg 800,1812,1099,2168,1 1837,1271,2047,1482,1 2079,1118,2445,1571,1 3067,1255,3296,1527,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012380.jpg 1830,1688,2028,1890,1 2057,1525,2435,2004,1 3065,1655,3292,1941,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012381.jpg 930,18,1094,102,1 1247,200,1502,451,1 1218,408,1467,606,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012382.jpg 924,294,1100,512,1 1235,616,1486,855,1 1204,827,1455,1022,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012383.jpg 906,714,1090,927,1 1222,1010,1467,1278,1 1188,1245,1437,1433,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012384.jpg 888,1208,1077,1420,1 2683,329,2926,576,1 1208,1522,1465,1796,1 1177,1743,1422,1935,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012385.jpg 883,1633,1063,1841,1 1194,1943,1443,2168,1 2669,739,2890,998,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012386.jpg 1110,351,1332,557,1 2657,1233,2879,1490,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012387.jpg 1106,755,1322,967,1 1149,2,1430,188,1 2647,1637,2871,1902,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012388.jpg 1145,367,1414,590,1 1090,1190,1302,1378,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012389.jpg 1116,776,1412,1008,1 1079,1610,1306,1814,1 2428,267,2690,498,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012390.jpg 2294,253,2543,541,1 2412,763,2683,988,1 1088,1269,1383,1496,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012391.jpg 2273,678,2532,951,1 2412,1167,2667,1396,1 1096,1696,1365,1914,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012392.jpg 2251,1078,2518,1369,1 2386,1578,2653,1822,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012393.jpg 2261,1584,2502,1876,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012394.jpg 1237,57,1557,331,1 1755,361,1975,676,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012395.jpg 1253,480,1596,716,1 1739,761,1967,1078,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012396.jpg 1243,965,1575,1210,1 1722,1280,1957,1584,1 2386,1,2661,161,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012397.jpg 1239,1386,1569,1637,1 1706,1686,1939,2000,1 1628,157,1841,341,1 2383,316,2667,582,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012398.jpg 2114,227,2345,604,1 1606,651,1824,829,1 2363,792,2665,1071,1 1210,1882,1543,2143,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012399.jpg 2100,635,2337,1018,1 1594,1065,1810,1243,1 2353,1214,2649,1498,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012400.jpg 2088,1143,2316,1514,1 1573,1555,1796,1735,1 2343,1700,2628,1990,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012401.jpg 2071,1557,2304,1922,1 1567,1982,1786,2139,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012402.jpg 424,357,637,680,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012403.jpg 418,790,632,1108,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012404.jpg 386,1282,610,1596,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012405.jpg 369,1780,588,2106,1 786,133,994,353,1 865,253,1081,492,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012406.jpg 786,547,979,741,1 832,659,1067,908,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012407.jpg 765,965,969,1173,1 828,1080,1059,1322,1 490,143,761,357,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012408.jpg 473,606,739,847,1 739,1467,945,1657,1 814,1578,1045,1822,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012409.jpg 459,1125,730,1357,1 726,1965,1035,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012410.jpg 449,1533,716,1784,1 3002,290,3316,553,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012411.jpg 2998,722,3320,945,1 426,1945,687,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012412.jpg 2983,1208,3294,1445,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012413.jpg 2967,1627,3283,1863,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012414.jpg 1765,167,1967,355,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012415.jpg 1739,567,1959,790,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012416.jpg 1724,1000,1939,1190,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012417.jpg 1714,1502,1928,1696,1 865,192,1063,500,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012418.jpg 863,606,1047,918,1 1708,1912,1924,2112,1 3143,4,3318,198,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012419.jpg 826,1025,1045,1325,1 1159,71,1377,392,1 1037,239,1279,459,1 3132,314,3318,612,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012420.jpg 367,173,641,416,1 1153,580,1355,876,1 1035,739,1263,963,1 839,1527,1018,1833,1 3122,802,3290,1088,1 1708,37,2018,327,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012421.jpg 343,590,632,827,1 1128,986,1347,1302,1 1006,1161,1251,1376,1 808,1937,1012,2168,1 1686,449,2014,755,1 3118,1229,3288,1498,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012422.jpg 326,992,612,1253,1 1679,863,2002,1182,1 1118,1406,1332,1714,1 1002,1582,1237,1784,1 3100,1620,3290,1935,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012423.jpg 310,1492,588,1751,1 1110,1912,1327,2168,1 1671,1361,1988,1678,1 2381,1,2535,210,1 2686,8,2932,133,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012424.jpg 300,1906,579,2168,1 1649,1780,1967,2096,1 2367,341,2520,627,1 2679,273,2914,537,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012425.jpg 2365,747,2516,1037,1 2665,678,2924,949,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012426.jpg 2347,1249,2504,1533,1 2661,1184,2888,1447,1 2839,4,3120,255,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012427.jpg 2337,1663,2479,1953,1 2643,1590,2886,1867,1 2832,388,3104,665,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012428.jpg 2820,904,3096,1163,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012429.jpg 2804,1298,3075,1578,1 2228,82,2383,329,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012430.jpg 2212,488,2363,757,1 2790,1708,3071,1980,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012431.jpg 2192,976,2361,1259,1 624,171,941,371,1 2141,18,2506,267,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012432.jpg 606,671,928,867,1 2135,498,2504,751,1 2183,1488,2343,1763,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012433.jpg 602,1082,945,1298,1 2130,908,2494,1173,1 2161,1904,2322,2163,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012434.jpg 586,1504,935,1749,1 2110,1329,2469,1584,1 1632,278,1812,516,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012435.jpg 1620,769,1800,1018,1 565,2006,930,2168,1 2098,1829,2471,2092,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012436.jpg 1606,1182,1788,1439,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012437.jpg 1588,1686,1767,1929,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012438.jpg 2594,216,2812,571,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012439.jpg 2445,365,2667,633,1 2575,710,2812,1071,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012440.jpg 1939,253,2196,533,1 2422,853,2661,1116,1 2553,1216,2794,1563,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012441.jpg 894,212,1181,402,1 2143,122,2451,308,1 1935,747,2179,1031,1 2402,1365,2643,1612,1 2559,1706,2763,2069,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012442.jpg 873,708,1163,896,1 2122,606,2432,802,1 1914,1239,2161,1525,1 2388,1853,2626,2114,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012443.jpg 865,1127,1157,1314,1 2110,1018,2432,1225,1 1906,1671,2159,1959,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012444.jpg 539,237,788,429,1 855,1539,1143,1737,1 2102,1437,2422,1649,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012445.jpg 522,729,761,916,1 828,2055,1125,2168,1 2079,1927,2410,2165,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012446.jpg 504,1141,749,1337,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012447.jpg 492,1555,735,1763,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012448.jpg 2363,190,2567,506,1 2845,61,3053,267,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012449.jpg 2355,606,2547,914,1 2879,516,3051,698,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012450.jpg 2335,1086,2535,1416,1 2653,273,2898,447,1 2861,994,3043,1188,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012451.jpg 1347,6,1643,131,1 1643,10,1863,296,1 2632,690,2881,853,1 2322,1484,2522,1831,1 2855,1412,3041,1604,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012452.jpg 1402,8,1622,151,1 1445,82,1696,310,1 1281,298,1622,539,1 1632,404,1849,708,1 2616,1098,2877,1265,1 2316,1904,2511,2168,1 2837,1820,3026,2016,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012453.jpg 1198,67,1447,357,1 1388,465,1610,645,1 1416,573,1675,798,1 1269,798,1598,1039,1 1622,898,1828,1204,1 2602,1602,2875,1761,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012454.jpg 1196,490,1430,767,1 1381,898,1602,1061,1 1410,980,1659,1216,1 1239,1200,1586,1459,1 1598,1327,1828,1625,1 2588,2022,2854,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012455.jpg 1183,892,1420,1188,1 1361,1318,1583,1494,1 1406,1404,1659,1625,1 1239,1629,1581,1861,1 1573,1729,1808,2039,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012456.jpg 1173,1392,1420,1684,1 1353,1822,1577,2012,1 1390,1884,1645,2125,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012457.jpg 1151,1796,1383,2100,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012458.jpg 2051,582,2222,757,1 2218,233,2549,488,1 2702,251,2906,520,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012459.jpg 2175,1035,2322,1210,1 2204,643,2543,886,1 2681,649,2892,937,1 2292,312,2467,514,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012460.jpg 2279,827,2447,1014,1 2132,1537,2283,1741,1 2192,1153,2518,1386,1 2675,1157,2883,1414,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012461.jpg 1904,47,2086,259,1 2271,1231,2441,1431,1 2194,1573,2506,1818,1 2130,1963,2271,2168,1 2663,1569,2873,1831,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012462.jpg 1902,469,2071,673,1 2259,1657,2424,1859,1 2177,1988,2511,2168,1 2663,1988,2869,2167,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012463.jpg 343,49,698,359,1 1879,949,2073,1206,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012464.jpg 332,459,679,778,1 1877,1380,2041,1596,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012465.jpg 322,867,657,1192,1 1861,1786,2024,2010,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012466.jpg 294,1365,643,1665,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012467.jpg 288,1776,630,2108,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012468.jpg 892,396,1175,649,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012469.jpg 881,810,1153,1057,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012470.jpg 871,1216,1132,1467,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012471.jpg 859,1725,1126,1971,1 1420,65,1681,300,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012472.jpg 1410,480,1671,716,1 1237,4,1479,204,1 2365,8,2630,157,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012473.jpg 1226,429,1465,696,1 2347,398,2632,665,1 1394,976,1663,1206,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012474.jpg 1214,843,1445,1122,1 2332,806,2626,1076,1 1379,1392,1655,1629,1 1843,1,2061,159,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012475.jpg 1832,306,2051,573,1 1204,1267,1428,1529,1 2324,1216,2616,1482,1 1375,1810,1639,2033,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012476.jpg 761,353,981,561,1 1551,345,1690,510,1 1814,802,2030,1061,1 1190,1769,1416,2035,1 2310,1718,2594,1976,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012477.jpg 761,741,1006,935,1 1539,751,1677,922,1 1806,1229,2018,1473,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012478.jpg 732,1249,973,1439,1 1524,1249,1667,1420,1 1792,1720,2000,1971,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012479.jpg 724,1667,971,1853,1 1508,1673,1643,1839,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012480.jpg 326,390,577,620,0 2681,361,2877,535,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012481.jpg 310,878,559,1108,0 2677,861,2877,1014,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012482.jpg 300,1292,543,1533,0 2661,1251,2857,1443,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012483.jpg 279,1796,524,2037,0 2643,1749,2847,1955,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012484.jpg 1665,153,1906,371,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012485.jpg 1645,649,1892,880,1 2908,310,3171,529,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012486.jpg 1643,1063,1883,1294,1 2906,725,3145,941,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012487.jpg 1622,1478,1865,1704,1 2896,1133,3120,1351,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012488.jpg 1622,1906,1845,2118,1 2892,1547,3128,1759,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012489.jpg 2677,284,2861,547,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012490.jpg 2665,696,2847,955,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012491.jpg 2659,1196,2835,1457,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012492.jpg 2647,1620,2822,1873,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012493.jpg 1928,165,2151,439,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012494.jpg 1922,567,2153,855,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012495.jpg 1908,1002,2130,1257,1 2708,51,2967,247,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012496.jpg 2698,541,2949,745,1 1888,1484,2122,1776,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012497.jpg 2677,949,2939,1155,1 1883,1914,2113,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012498.jpg 2675,1378,2941,1571,1 1816,2,2094,188,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012499.jpg 1794,392,2073,680,1 2663,1865,2908,2065,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012500.jpg 935,53,1147,357,1 1783,800,2061,1094,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012501.jpg 928,476,1135,765,1 1765,1220,2049,1506,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012502.jpg 908,969,1108,1267,1 1755,1712,2037,1996,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012503.jpg 896,1394,1100,1684,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012504.jpg 877,1882,1093,2168,1 1732,33,1963,294,1 2065,80,2251,445,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012505.jpg 1710,445,1953,700,1 2063,504,2237,867,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012506.jpg 1708,865,1949,1122,1 2047,906,2222,1284,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012507.jpg 1692,1276,1924,1539,1 2039,1320,2214,1696,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012508.jpg 1681,1780,1916,2037,1 2028,1831,2208,2161,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012509.jpg 1226,233,1598,453,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012510.jpg 1204,712,1569,959,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012511.jpg 1192,1137,1557,1363,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012512.jpg 1171,1543,1539,1782,1 2402,182,2612,425,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012513.jpg 2561,382,2851,590,1 2388,671,2594,914,1 1151,2041,1553,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012514.jpg 2547,784,2830,984,1 2367,1078,2586,1325,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012515.jpg 2547,1204,2826,1392,1 2363,1488,2588,1749,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012516.jpg 361,16,626,273,1 2526,1696,2808,1904,1 2359,1992,2565,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012517.jpg 351,412,592,688,1 483,37,698,292,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012518.jpg 475,435,686,712,1 320,816,563,1104,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012519.jpg 459,863,688,1116,1 302,1227,563,1508,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012520.jpg 1502,212,1743,473,1 445,1353,667,1618,1 286,1731,543,2008,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012521.jpg 1465,1306,1730,1545,1 435,1763,665,2051,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012522.jpg 1455,1731,1749,1935,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012523.jpg 2590,100,2843,327,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012524.jpg 2575,512,2816,727,1 1190,35,1496,339,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012525.jpg 1196,529,1490,827,1 2561,1008,2804,1231,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012526.jpg 894,4,1159,178,1 1079,220,1328,422,1 1186,959,1469,1229,1 2549,1429,2794,1637,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012527.jpg 861,339,1153,614,1 1077,631,1310,835,1 1163,1378,1447,1637,1 2539,1841,2798,2059,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012528.jpg 855,831,1128,1106,1 1057,1122,1298,1325,1 1153,1878,1449,2139,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012529.jpg 855,1237,1120,1525,1 1037,1529,1283,1753,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012530.jpg 841,1651,1094,1943,1 1026,1947,1282,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012531.jpg 1302,473,1543,698,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012532.jpg 1281,896,1512,1092,1 2575,8,2932,157,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012533.jpg 2583,325,2910,553,1 1265,1312,1498,1518,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012534.jpg 2569,829,2894,1059,1 1251,1794,1481,2006,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012535.jpg 2561,1237,2879,1459,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012536.jpg 988,8,1296,200,1 2545,1653,2873,1882,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012537.jpg 465,269,722,492,1 971,294,1335,700,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012538.jpg 457,690,698,900,1 959,704,1318,1108,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012539.jpg 447,1102,692,1320,1 943,1120,1314,1533,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012540.jpg 420,1600,675,1814,1 1420,153,1792,447,1 924,1625,1298,2037,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012541.jpg 1414,573,1781,859,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012542.jpg 1396,1069,1761,1361,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012543.jpg 2122,14,2277,129,1 2102,265,2316,514,1 1375,1494,1745,1765,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012544.jpg 2116,329,2281,549,1 2845,31,3026,206,1 2088,671,2310,943,1 1361,1900,1742,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012545.jpg 2835,529,3020,704,1 2096,814,2267,1039,1 2069,1169,2298,1437,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012546.jpg 2416,155,2632,380,1 2816,929,3014,1110,1 2090,1227,2245,1455,1 2057,1576,2283,1843,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012547.jpg 1586,145,1826,410,1 2408,569,2616,794,1 2812,1355,3000,1520,1 2071,1637,2249,1869,1 2039,2006,2285,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012548.jpg 928,308,1190,498,1 1569,637,1808,896,1 2373,1047,2602,1280,1 2800,1841,2981,2027,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012549.jpg 912,716,1177,896,1 1559,1061,1806,1320,1 2369,1473,2592,1702,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012550.jpg 902,1135,1157,1318,1 1551,1488,1800,1727,1 2361,1880,2588,2114,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012551.jpg 888,1631,1135,1818,1 1528,1994,1783,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012552.jpg 447,735,606,937,1 1608,492,1841,761,1 1886,829,2096,1065,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012553.jpg 424,1231,581,1435,1 941,1,1218,155,1 1594,990,1812,1263,1 1865,1312,2081,1559,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012554.jpg 418,1655,565,1857,1 888,341,1210,576,1 1604,1,1902,188,1 1579,1414,1814,1690,1 1863,1737,2063,1978,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012555.jpg 877,757,1198,992,1 1590,382,1894,598,1 1571,1818,1794,2098,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012556.jpg 1583,880,1863,1094,1 857,1263,1171,1471,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012557.jpg 863,1676,1169,1898,1 1559,1292,1855,1512,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012558.jpg 643,198,867,455,1 1790,243,2100,498,1 2030,39,2255,284,1 2122,159,2443,420,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012559.jpg 628,602,853,857,1 1786,665,2092,916,1 2016,461,2239,690,1 2102,573,2430,827,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012560.jpg 614,1114,835,1359,1 1759,1153,2088,1420,1 2010,969,2222,1204,1 2077,1065,2414,1325,1 2069,2,2269,135,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012561.jpg 594,1533,826,1780,1 2059,292,2255,551,1 1992,1388,2220,1610,1 1757,1569,2049,1829,1 2075,1496,2392,1753,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012562.jpg 2043,704,2245,963,1 588,1945,815,2168,1 1988,1814,2210,2043,1 1747,1986,2038,2168,1 2059,1892,2391,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012563.jpg 2032,1198,2230,1471,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012564.jpg 2024,1612,2218,1876,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012565.jpg 447,169,657,394,1 1875,10,2106,202,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012566.jpg 432,598,647,792,1 1867,359,2086,612,1 2310,4,2522,127,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012567.jpg 404,1084,639,1308,1 1845,851,2065,1106,1 2281,378,2483,616,1 2290,6,2594,163,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012568.jpg 2294,337,2579,567,1 2273,796,2477,1025,1 1835,1263,2041,1535,1 396,1502,614,1722,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012569.jpg 2277,765,2575,1010,1 2257,1204,2465,1451,1 1822,1680,2049,1955,1 383,1916,616,2165,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012570.jpg 2257,1249,2553,1506,1 2243,1708,2455,1949,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012571.jpg 775,122,1026,412,1 1704,90,1920,322,1 2245,1669,2539,1916,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012572.jpg 767,625,1010,906,1 1677,584,1904,833,1 2763,157,3061,449,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012573.jpg 747,1035,1004,1322,1 1667,1000,1888,1247,1 2755,582,3047,861,1 1098,47,1304,298,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012574.jpg 565,129,722,288,0 1081,457,1296,708,0 747,1449,979,1729,1 1659,1420,1873,1649,1 2743,988,3032,1253,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012575.jpg 539,618,704,769,0 1088,957,1265,1210,0 728,1951,958,2168,1 1637,1912,1883,2149,1 2724,1482,3016,1763,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012576.jpg 524,1035,675,1180,0 1065,1367,1261,1625,0 2718,1894,3018,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012577.jpg 518,1451,671,1602,0 1043,1792,1253,2037,0
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012578.jpg 2890,653,3137,945,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012579.jpg 2783,1014,3077,1304,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012580.jpg 2769,1443,3073,1733,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012581.jpg 2747,1949,3061,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012582.jpg 1630,2,1863,225,1 2308,388,2486,618,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012583.jpg 1624,376,1841,647,1 667,33,922,235,1 2283,804,2483,1018,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012584.jpg 659,443,896,635,1 1608,800,1830,1033,1 2286,1225,2486,1429,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012585.jpg 639,943,894,1137,1 1596,1294,1806,1547,1 2269,1716,2443,1945,1 1912,2,2143,139,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012586.jpg 1900,329,2118,543,1 624,1357,875,1551,1 1575,1720,1810,1973,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012587.jpg 1883,814,2128,1055,1 604,1855,855,2063,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012588.jpg 1879,1245,2106,1465,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012589.jpg 1559,110,1808,363,1 1869,1659,2098,1890,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012590.jpg 1547,520,1786,759,1 1859,2078,2056,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012591.jpg 1535,1022,1783,1257,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012592.jpg 1526,1437,1771,1676,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012593.jpg 1971,484,2281,718,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012594.jpg 1965,916,2286,1131,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012595.jpg 1945,1320,2275,1539,1 2988,10,3243,182,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012596.jpg 2975,480,3228,669,1 1935,1816,2249,2051,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012597.jpg 2973,884,3235,1076,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012598.jpg 2963,1296,3226,1498,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012599.jpg 2947,1704,3198,1914,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012600.jpg 430,320,655,594,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012601.jpg 412,747,632,1000,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012602.jpg 383,1137,620,1420,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012603.jpg 1447,67,1675,371,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012604.jpg 1435,563,1647,853,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012605.jpg 1416,982,1626,1261,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012606.jpg 1406,1490,1635,1771,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012607.jpg 1492,182,1655,451,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012608.jpg 1467,669,1639,957,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012609.jpg 1463,1090,1622,1371,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012610.jpg 1455,1504,1630,1788,1 3112,502,3457,794,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012611.jpg 3126,990,3426,1294,1 1441,2006,1600,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012612.jpg 3106,1398,3422,1706,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012613.jpg 3098,1898,3415,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012614.jpg 1751,525,2022,790,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012615.jpg 1790,976,2026,1255,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012616.jpg 1763,1400,2010,1673,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012617.jpg 2241,239,2463,512,1 1771,1810,2010,2100,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012618.jpg 2218,753,2455,1012,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012619.jpg 2206,1169,2465,1435,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012620.jpg 2181,1592,2443,1833,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012621.jpg 937,233,1159,453,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012622.jpg 930,647,1143,871,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012623.jpg 912,1133,1137,1378,1 383,10,706,233,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012624.jpg 373,359,696,645,1 902,1559,1118,1802,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012625.jpg 359,755,686,1051,1 890,1984,1111,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012626.jpg 335,1261,671,1549,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012627.jpg 324,1682,647,1973,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012628.jpg 553,65,781,353,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012629.jpg 543,480,757,757,1 1006,118,1286,376,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012630.jpg 1000,606,1281,871,1 530,961,737,1249,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012631.jpg 579,355,783,529,1 969,1020,1249,1278,1 502,1367,730,1676,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012632.jpg 567,767,765,933,1 486,1804,722,2108,1 965,1433,1243,1696,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012633.jpg 545,1269,741,1439,1 949,1931,1243,2163,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012634.jpg 530,1682,730,1855,1 2198,127,2473,457,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012635.jpg 2159,631,2453,961,1 2265,39,2498,349,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012636.jpg 2265,457,2486,767,1 2157,1063,2449,1373,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012637.jpg 422,235,720,516,1 2249,882,2479,1194,1 2139,1484,2426,1794,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012638.jpg 416,749,706,1010,1 2237,1373,2467,1684,1 2126,1976,2418,2167,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012639.jpg 410,1161,686,1429,1 2220,1790,2443,2108,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012640.jpg 390,1578,681,1837,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012641.jpg 1051,184,1332,510,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012642.jpg 1039,676,1306,1006,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012643.jpg 1018,1082,1292,1431,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012644.jpg 998,1518,1273,1851,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012645.jpg 1437,51,1600,282,1 1208,63,1424,331,1 1163,6,1300,176,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012646.jpg 1161,314,1420,504,1 1147,506,1279,669,1 1200,567,1410,820,1 1404,533,1598,786,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012647.jpg 1135,722,1406,896,1 1139,916,1281,1088,1 1408,943,1573,1214,1 1186,984,1400,1247,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012648.jpg 1588,184,1873,437,1 1053,322,1218,439,1 1124,1137,1388,1333,1 1126,1320,1265,1506,1 1171,1406,1388,1655,1 1373,1369,1563,1627,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012649.jpg 1039,825,1202,939,1 1573,680,1853,947,1 1696,55,2088,331,1 1820,245,2039,502,1 1116,1645,1388,1839,1 1108,1818,1257,2008,1 1161,1894,1365,2163,1 1359,1865,1559,2135,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012650.jpg 1675,469,2086,755,1 1804,659,2026,927,1 1028,1227,1192,1349,1 1565,1088,1835,1369,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012651.jpg 1663,876,2086,1155,1 1800,1096,2014,1331,1 1016,1645,1183,1761,1 1543,1502,1814,1782,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012652.jpg 1653,1392,2059,1665,1 1773,1600,1994,1818,1 1524,2020,1806,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012653.jpg 1637,1810,2057,2073,1 1761,2022,2002,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012654.jpg 683,467,886,694,1 1590,492,1735,696,1 2183,6,2467,363,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012655.jpg 588,255,783,457,1 2175,406,2451,788,1 688,880,865,1100,1 1579,910,1741,1116,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012656.jpg 563,739,773,951,1 655,1394,855,1608,1 1569,1408,1710,1641,1 2165,916,2443,1280,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012657.jpg 553,1157,765,1367,1 643,1778,855,2025,1 1545,1822,1704,2031,1 2153,1322,2432,1694,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012658.jpg 530,1565,741,1780,1 2147,1727,2432,2108,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012659.jpg 653,308,953,539,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012660.jpg 637,722,928,961,1 2208,37,2424,259,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012661.jpg 620,1229,920,1453,1 2237,184,2447,463,1 2181,543,2426,773,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012662.jpg 610,1633,900,1869,1 1453,216,1632,443,1 2228,600,2439,902,1 2173,955,2410,1190,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012663.jpg 1432,716,1632,937,1 2212,1100,2420,1388,1 2157,1455,2388,1692,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012664.jpg 1420,1137,1600,1345,1 2202,1529,2406,1806,1 2155,1882,2371,2108,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012665.jpg 1408,1557,1581,1765,1 2194,1939,2387,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012666.jpg 665,178,883,559,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012667.jpg 669,592,873,961,1 2075,86,2243,292,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012668.jpg 2063,578,2228,788,1 647,1098,865,1471,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012669.jpg 2053,994,2212,1194,1 645,1514,845,1886,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012670.jpg 1469,367,1641,598,1 2035,1482,2208,1702,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012671.jpg 1453,767,1618,1002,1 2028,1896,2190,2118,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012672.jpg 1428,1184,1622,1416,1 1630,116,1794,312,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012673.jpg 1608,622,1771,812,1 1424,1684,1598,1908,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012674.jpg 1596,1047,1761,1243,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012675.jpg 1594,1451,1749,1641,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012676.jpg 1816,159,2057,396,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012677.jpg 1753,288,1969,543,1 1822,571,2043,800,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012678.jpg 353,345,602,557,1 1739,698,1963,965,1 1800,986,2018,1212,1 2228,4,2439,161,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012679.jpg 2228,412,2420,649,1 314,833,594,1067,1 1724,1200,1951,1471,1 1788,1502,2012,1714,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012680.jpg 306,1255,575,1498,1 2196,816,2416,1076,1 1716,1610,1951,1900,1 1775,1910,2002,2127,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012681.jpg 2200,1241,2398,1471,1 292,1680,563,1914,1 1732,2039,1928,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012682.jpg 2188,1741,2377,1978,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012683.jpg 1175,196,1520,439,1 1961,108,2210,502,1 2181,302,2477,551,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012684.jpg 1157,706,1508,939,1 1955,614,2200,1004,1 2167,798,2465,1049,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012685.jpg 1157,1110,1494,1349,1 1177,116,1516,390,1 1939,1031,2188,1406,1 2159,1214,2453,1465,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012686.jpg 1153,527,1506,818,1 1124,1537,1477,1761,1 1924,1451,2177,1833,1 2143,1625,2441,1876,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012687.jpg 1141,1039,1481,1306,1 1118,2029,1466,2168,1 1910,1945,2143,2168,1 2830,10,3032,218,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012688.jpg 1137,1447,1475,1733,1 2818,412,3014,639,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012689.jpg 2804,814,3004,1041,1 1114,1865,1461,2143,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012690.jpg 1200,233,1351,439,1 1645,88,1837,394,1 2806,1292,2998,1533,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012691.jpg 1188,653,1341,849,1 1624,508,1826,814,1 2790,1714,2983,1947,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012692.jpg 1175,1065,1328,1267,1 1616,920,1820,1227,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012693.jpg 1153,1559,1316,1773,1 1600,1416,1806,1725,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012694.jpg 1153,1984,1307,2168,1 1594,1825,1790,2137,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012695.jpg 963,429,1183,625,1 2006,218,2365,500,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012696.jpg 961,843,1165,1047,1 1981,631,2363,916,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012697.jpg 943,1259,1155,1463,1 1973,1057,2347,1327,1 1469,212,1663,469,1 2963,25,3243,286,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012698.jpg 1455,702,1657,955,1 920,1765,1128,1971,1 1955,1555,2345,1831,1 2590,386,2783,557,1 2955,529,3239,773,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012699.jpg 1447,1127,1639,1380,1 1924,1965,2324,2168,1 2581,808,2769,967,1 2939,939,3224,1178,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012700.jpg 2571,1225,2757,1396,1 1435,1547,1624,1790,1 2935,1353,3218,1608,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012701.jpg 2559,1716,2747,1892,1 2914,1857,3210,2100,1 1414,2035,1619,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012702.jpg 663,257,896,541,1 2600,65,2828,300,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012703.jpg 643,686,886,963,1 2598,476,2818,698,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012704.jpg 635,1182,863,1484,1 2586,967,2794,1202,1 947,78,1177,261,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012705.jpg 935,484,1157,680,1 626,1606,847,1918,1 2573,1380,2790,1625,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012706.jpg 916,982,1147,1198,1 2549,1869,2773,2120,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012707.jpg 906,1392,1120,1596,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012708.jpg 881,1808,1118,2037,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012709.jpg 681,14,865,180,1 1818,2,2069,382,1 2298,22,2730,251,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012710.jpg 667,431,861,592,1 1800,402,2053,782,1 2279,447,2724,657,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012711.jpg 655,847,845,1004,1 1790,818,2053,1212,1 2267,855,2706,1076,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012712.jpg 641,1343,824,1516,1 1773,1306,2039,1704,1 2251,1343,2683,1588,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012713.jpg 622,1767,804,1920,1 1767,1737,2028,2116,1 2241,1767,2686,1988,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012714.jpg 2573,69,2800,365,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012715.jpg 2569,569,2783,861,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012716.jpg 2561,978,2781,1261,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012717.jpg 2537,1384,2757,1690,1 2606,14,2892,255,1 3118,1,3394,139,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012718.jpg 2596,510,2900,753,1 3088,445,3373,625,1 2539,1880,2766,2168,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012719.jpg 2590,916,2890,1163,1 3079,861,3365,1045,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012720.jpg 2575,1325,2861,1573,1 3055,1269,3345,1451,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012721.jpg 2567,1833,2851,2084,1 3041,1765,3337,1963,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012722.jpg 2055,231,2414,516,1 2757,427,2990,620,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012723.jpg 2043,659,2404,922,1 2747,833,2981,1043,1 3041,263,3222,435,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012724.jpg 2030,1167,2386,1429,1 2732,1345,2963,1533,1 3022,747,3228,927,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012725.jpg 3020,1161,3206,1337,1 2726,1753,2945,1949,1 2012,1584,2363,1839,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012726.jpg 3002,1657,3202,1843,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012727.jpg 2273,351,2483,604,1
+F:/DsCGF/GUOBEI/object_detection/productive_state/test/img/GUOBEI_objdet_CGUF_0012728.jpg 2261,853,2469,1116,1
